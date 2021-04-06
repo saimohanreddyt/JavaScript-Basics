@@ -1,0 +1,15 @@
+
+JAVA SCRIPT :
+===   ===
+
+Java Script is a Client-Side Scripting Language 
+
+	
+For a Web Browser Applicatons
+	
+	HTML		: It is for Designing
+
+	CSS		: It is for more Attractive
+
+	JavaScript	: It make an application more Interactive
+
